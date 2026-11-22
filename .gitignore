@@ -1,0 +1,24 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# 打包产物（体积大、平台相关，不入库）
+build/
+dist/
+*.spec
+*.exe
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store

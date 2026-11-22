@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "俄罗斯方块项目",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.encoding": "utf8",
+    "workbench.colorTheme": "Dark Modern"
+  }
+}
